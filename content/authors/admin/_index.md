@@ -88,14 +88,14 @@ skills:
     items:
       - name: Gym
         description: ''
-        icon: 
+        icon: gymnastics
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: DnD
+      - name: Games
         description: ''
-        icon: dnd
+        icon: bookshelf
 ---
 
 ## Hello Hello!
