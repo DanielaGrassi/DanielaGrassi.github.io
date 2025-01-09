@@ -1,0 +1,61 @@
+# Created by httpswww.toptal.comdevelopersgitignoreapivisualstudiocode,hugo,go
+# Edit at httpswww.toptal.comdevelopersgitignoretemplates=visualstudiocode,hugo,go
+
+### Go ###
+# If you prefer the allow list template instead of the deny list, see community template
+# httpsgithub.comgithubgitignoreblobmaincommunityGolangGo.AllowList.gitignore
+#
+# Binaries for programs and plugins
+.exe
+.exe~
+.dll
+.so
+.dylib
+
+# Test binary, built with `go test -c`
+.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor
+
+# Go workspace file
+go.work
+
+### Hugo ###
+# Generated files by hugo
+public
+resources_gen
+assetsjsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+.hugo_build.lock
+
+### VisualStudioCode ###
+.vscode
+!.vscodesettings.json
+!.vscodetasks.json
+!.vscodelaunch.json
+!.vscodeextensions.json
+!.vscode.code-snippets
+
+# Local History for Visual Studio Code
+.history
+
+# Built Visual Studio Code Extensions
+.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of httpswww.toptal.comdevelopersgitignoreapivisualstudiocode,hugo,go
