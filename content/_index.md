@@ -35,9 +35,12 @@ sections:
       title: "📚 My Research"
       subtitle: ""
       text: |-
-        My research is centered around analyzing physiological data, like HRV and EDA, to gain a deeper understanding of how people interact in today's hybrid workspaces. 
-        
-        I use both qualitative and quantitative methods to investigate how these physiological responses shape our emotional and cognitive experiences at work. 
+        My research focuses on emotional awareness in collaborative work, with a focus on recognizing and using affective and cognitive states to support well-being and performance.
+
+        I study how physiological signals—such as heart rate variability (HRV), electrodermal activity (EDA) and EEG—combined with user input and contextual information, can provide insights into stress, engagement, and emotional dynamics during work activities.
+
+        The goal is to develop non-intrusive methods and tools that promote emotional self-awareness, reduce stress, and support reflection in both lab and real-world settings. 
+
     design:
       columns: "1"
 

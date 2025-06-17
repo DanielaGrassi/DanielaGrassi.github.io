@@ -26,7 +26,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'daniela.grassi@uniba.it'
+    url: 'mailto:daniela.grassi@uniba.it'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/DanielaGrassi_
@@ -47,25 +47,39 @@ interests:
 
 education:
   - area: PhD Student in Computer Science and Mathematics
-    institution: University of Bari  
-  - area: MSc Computer Science - Artificial
+    institution: University of Bari 
+    date_start: 2023-09-01 
+    date_end: 2025-10-01
+  - area: MSc Computer Science - Artificial Intelligence
     institution: University of Bari
+    date_start: 2020-09-01
+    date_end: 2022-07-01
   - area: BSc Computer Science
     institution: University of Bari
+    date_start: 2017-09-01
+    date_end: 2020-07-01
 
 work:
+
+  - position: Research Assistant
+    company_name: University of Bari
+    date_start: 2024-12-09
+    date_end: 2025-03-09
+    summary: |
+      Monitoring the performance of classifiers for emotion recognition in software developers using non-invasive biometric sensors for GSR and EEG detection
+
   - position: Research Assistant
     company_name: University of Bari
     date_start: 2023-07-01
     date_end: 2023-09-30
     summary: |
       Emotion Recognition using non-Invasive Biometric Sensors
-  - position: Research Assistant
+  - position: Research Fellowship (While Completing Master’s Program)
     company_name: University of Bari
     date_start: 2021-10-01
     date_end: 2022-07-31
     summary: |
-      Development of classifiers for emotion recognition
+      Development of Classifiers for Emotion Recognition
 
 skills:
   - name: Technical Skills
@@ -100,4 +114,4 @@ skills:
 
 ## Hello Hello!
 
-I am Daniela, a PhD student researching engagement, emotions, and other affective states in work environments. My work focuses on analyzing physiological data, such as HRV and EDA, to better understand human interactions in modern work environments.
+I am Daniela, a PhD student researching engagement, emotions, and other affective states in work environments. My work focuses on analyzing physiological data—such as heart rate variability (HRV) and electrodermal activity (EDA)—to better understand human interactions in modern work contexts. I am a member of the [Collab research group](https://collab.di.uniba.it/), where we explore the intersection of human-centered computing, collaboration, and affective technologies.
