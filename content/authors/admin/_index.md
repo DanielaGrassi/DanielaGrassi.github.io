@@ -81,35 +81,7 @@ work:
     summary: |
       Development of Classifiers for Emotion Recognition
 
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Biometric Sensor
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Gym
-        description: ''
-        icon: gymnastics
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Games
-        description: ''
-        icon: bookshelf
+
 ---
 
 ## Hello Hello!
